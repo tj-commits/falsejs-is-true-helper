@@ -1,0 +1,31 @@
+{
+  "name": "@falsejs/is-true-helper",
+  "version": "1.0.0",
+  "description": "A helper function for the FalseJS library that checks if a value is true.",
+  "main": "helper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "true",
+    "istrue",
+    "false",
+    "boolean",
+    "js"
+  ],
+  "author": "tj-commits",
+  "license": "MIT",
+  "dependencies": {
+    "brototype": "^0.0.6",
+    "false": "^0.0.4",
+    "is-false": "^0.1.1",
+    "is-negative-zero": "^2.0.3",
+    "is-one": "^1.0.0",
+    "is-thirteen": "^2.0.0",
+    "is-true": "^0.1.1",
+    "none": "^1.0.0",
+    "undefined-is-a-function": "^0.1.0",
+    "vanilla-javascript": "^1.1.1",
+    "vapor-js-npm": "^1.4.6"
+  }
+}
