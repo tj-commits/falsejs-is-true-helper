@@ -1,6 +1,6 @@
 {
   "name": "@falsejs/is-true-helper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A helper function for the FalseJS library that checks if a value is true.",
   "main": "helper.js",
   "scripts": {
